@@ -66,7 +66,7 @@ GO
 
 ## Screenshots
 
-<img src="https://github.com/AfriwanAhda/FileDemo/blob/master/SQLServerConfigurationOnDocker.png"/>
+<img src="https://github.com/AfriwanAhda/FileDemo/blob/master/SQLServerConfigurationOnDocker.png" width="66" height="168"/>
 
 
 If the sql server connection failed, slide the memory slider up to at least 4GB, because by default Docker will have 2GB of memory allocated to it. SQL Server needs at least 3.25GB.
