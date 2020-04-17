@@ -9,9 +9,9 @@
 
 # SQL Server container images with Docker configuration on macOS & Linux
 
-Pull the SQL Server 2019 Latest container image from Docker Hub:
+Open your Terminal, pull the SQL Server 2019 Latest container image from Docker Hub:
 ```groovy
-pod 'AfriwanLib'
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
 ```
 
 
