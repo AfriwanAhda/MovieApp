@@ -3,10 +3,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Startup.cs">
     <Files>
       <File FileName="MvcMovie/appsettings.json" Line="11" Column="106" />
-      <File FileName="MvcMovie/appsettings.Development.json" Line="11" Column="48" />
+      <File FileName="MvcMovie/appsettings.Development.json" />
       <File FileName="MvcMovie/Startup.cs" Line="40" Column="21" />
-      <File FileName="MvcMovie/Properties/launchSettings.json" Line="30" Column="46" />
-      <File FileName="MvcMovie/Program.cs" Line="29" Column="1" />
+      <File FileName="MvcMovie/Properties/launchSettings.json" />
+      <File FileName="MvcMovie/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
