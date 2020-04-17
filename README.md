@@ -7,7 +7,7 @@
 - Create an API
 
 
-# SQL Server container images with Docker configuration on macOS & Linux
+# SQL Server container images with Docker - macOS & Linux configuration
 
 Open your Terminal, pull the SQL Server 2019 Latest container image from Docker Hub:
 ```groovy
