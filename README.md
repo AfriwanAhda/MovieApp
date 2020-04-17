@@ -4,7 +4,7 @@
 - Add and scaffold a model
 - Work with a database (CRUD)
 - Add search and validation
-- Create API
+- Create an API
 
 
 # SQL Server container images with Docker configuration on macOS & Linux
@@ -62,5 +62,9 @@ Type GO on a new line to execute the previous commands:
 ```groovy
 GO
 ```
+## If the sql server connection failed, slide the memory slider up to at least 4GB, because by default Docker will have 2GB of memory allocated to it. SQL Server needs at least 3.25GB.
+
+
+[<img src="https://github.com/AfriwanAhda/FileDemo/blob/master/SettingDockerMemory.png"/>]
 
 
