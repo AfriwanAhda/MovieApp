@@ -41,7 +41,7 @@ namespace MvcMovie.Controllers
             return movieItem;
         }
 
-        // PUT: MoviesAPI/5
+        // PUT: MoviesAPI/7
         // To protect from overposting attacks, enable the specific properties you want to bind to
         [HttpPut("{id}")]
         public async Task<ActionResult> UpdateMovie(int id, Movie movie)
